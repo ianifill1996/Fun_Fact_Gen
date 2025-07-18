@@ -17,10 +17,10 @@ bash
 git clone <repository-url>
 cd fun-fact-server
 
-2. Install Dependencies
+### 2. Install Dependencies
 npm install
 
-4. Start the Server
+### 3. Start the Server
 node server.js
 
 You should see:
